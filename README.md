@@ -11,6 +11,12 @@ This repository contains all the projects and algorithm implementations related 
 #### 3. POS Tagger Using Hidden Markov Models
 - Using the [Pomegranate](https://github.com/jmschrei/pomegranate) library built a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf)
 
+#### 4. Machine Translation  
+- Built deep neural network models such as basic RNN, Bidirectional RNN etc.  
+- The models are part of the machine translation pipeline that accepts english text as input and returns the French translation.
+
+
+
 
 
 
