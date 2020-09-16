@@ -8,6 +8,9 @@ This repository contains all the projects and algorithm implementations related 
 #### 2. The Porter Stemming Algorithm
 - The implementation is based on the paper [Stemming Algorithm Paper](https://tartarus.org/martin/PorterStemmer/def.txt)
 
-#### Updates in progress... 
+#### 3. POS Tagger Using Hidden Markov Models
+- Using the [Pomegranate](https://github.com/jmschrei/pomegranate) library built a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf)
+
+
 
 
