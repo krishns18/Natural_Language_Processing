@@ -15,6 +15,10 @@ This repository contains all the projects and algorithm implementations related 
 - Built deep neural network models such as basic RNN, Bidirectional RNN etc.  
 - The models are part of the machine translation pipeline that accepts english text as input and returns the French translation.
 
+#### 5. DNN Speech Recognizer
+- Built deep neural network functions for the end-to-end automatic speech recognition (ASR) pipeline!
+
+__updates in progress__
 
 
 
