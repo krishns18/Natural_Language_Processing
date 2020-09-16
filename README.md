@@ -18,7 +18,7 @@ This repository contains all the projects and algorithm implementations related 
 #### 5. DNN Speech Recognizer
 - Built deep neural network functions for the end-to-end automatic speech recognition (ASR) pipeline!
 
-__updates in progress__
+<i>Updates in progress...</i>
 
 
 
